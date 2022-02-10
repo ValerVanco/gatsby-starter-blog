@@ -28,3 +28,12 @@ This text is ***really important***.
 2. Second item
 3. Third item
 4. Fourth item
+
+1. Open the file containing the Linux mascot.
+2. Marvel at its beauty.
+
+    ![UK guy](/src/images/profile-pic.png)
+
+3. Close the file.
+
+[Link text Here](https://link-url-here.org)
