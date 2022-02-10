@@ -10,3 +10,8 @@ Hi I'm a website!
 
 text text text
 text text text
+
+Love**is**bold
+A*cat*meow
+This text is ***really important***.
+> Dorothy followed her through many of the beautiful rooms in her castle.
