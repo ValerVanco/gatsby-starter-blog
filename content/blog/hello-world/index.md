@@ -29,6 +29,10 @@ This text is ***really important***.
 3. Third item
 4. Fourth item
 
+- list
+- list2
+:tada: :fireworks:
+
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
