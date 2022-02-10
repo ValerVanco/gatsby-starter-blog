@@ -36,7 +36,7 @@ This text is ***really important***.
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![UK guy](../src/images/profile-pic.png)
+    ![UK guy](.../src/images/profile-pic.png)
 
 3. Close the file.
 
